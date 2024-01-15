@@ -1,6 +1,6 @@
 #             Title: Hangman 
 # 
-#        Programmer: S. Murtaza Shah (99059sha) 
+#        Programmer: S. Murtaza Shah
 # 
 #       Description: This program is an interactive hangman game. The player is
 #                    presented with a random phrase/ word which they try to guess
